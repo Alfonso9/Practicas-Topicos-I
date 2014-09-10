@@ -1,0 +1,11 @@
+c:\users\alfonso\documents\visual studio 2010\Projects\ProyectoEstudiantes\ProyectoEstudiantes\bin\Debug\ProyectoEstudiantes.exe
+c:\users\alfonso\documents\visual studio 2010\Projects\ProyectoEstudiantes\ProyectoEstudiantes\bin\Debug\ProyectoEstudiantes.pdb
+c:\users\alfonso\documents\visual studio 2010\Projects\ProyectoEstudiantes\ProyectoEstudiantes\obj\x86\Debug\ProyectoEstudiantes.FRegistro.resources
+c:\users\alfonso\documents\visual studio 2010\Projects\ProyectoEstudiantes\ProyectoEstudiantes\obj\x86\Debug\ProyectoEstudiantes.Properties.Resources.resources
+c:\users\alfonso\documents\visual studio 2010\Projects\ProyectoEstudiantes\ProyectoEstudiantes\obj\x86\Debug\ProyectoEstudiantes.csproj.GenerateResource.Cache
+c:\users\alfonso\documents\visual studio 2010\Projects\ProyectoEstudiantes\ProyectoEstudiantes\obj\x86\Debug\ProyectoEstudiantes.exe
+c:\users\alfonso\documents\visual studio 2010\Projects\ProyectoEstudiantes\ProyectoEstudiantes\obj\x86\Debug\ProyectoEstudiantes.pdb
+C:\Users\Alfonso\documents\visual studio 2010\Projects\ProyectoEstudiantes\ProyectoEstudiantes\bin\Debug\ProyectoEstudiantes.exe.config
+C:\Users\Alfonso\documents\visual studio 2010\Projects\ProyectoEstudiantes\ProyectoEstudiantes\obj\x86\Debug\ProyectoEstudiantes.Vista.MostrarSelector.resources
+C:\Users\Alfonso\documents\visual studio 2010\Projects\ProyectoEstudiantes\ProyectoEstudiantes\obj\x86\Debug\ProyectoEstudiantes.Vista.Modificar.resources
+C:\Users\Alfonso\documents\visual studio 2010\Projects\ProyectoEstudiantes\ProyectoEstudiantes\obj\x86\Debug\ProyectoEstudiantes.csprojResolveAssemblyReference.cache
