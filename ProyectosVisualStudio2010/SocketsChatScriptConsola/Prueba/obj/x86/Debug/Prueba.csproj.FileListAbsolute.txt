@@ -1,0 +1,4 @@
+C:\Users\Alfonso\Documents\Visual Studio 2010\Projects\SocketsChatScriptConsola\Prueba\bin\Debug\Prueba.exe
+C:\Users\Alfonso\Documents\Visual Studio 2010\Projects\SocketsChatScriptConsola\Prueba\bin\Debug\Prueba.pdb
+C:\Users\Alfonso\Documents\Visual Studio 2010\Projects\SocketsChatScriptConsola\Prueba\obj\x86\Debug\Prueba.exe
+C:\Users\Alfonso\Documents\Visual Studio 2010\Projects\SocketsChatScriptConsola\Prueba\obj\x86\Debug\Prueba.pdb

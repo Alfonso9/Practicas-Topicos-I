@@ -1,0 +1,8 @@
+c:\users\alfonso\documents\visual studio 2010\Projects\SocketsChatScriptConsola\SocketsChatScriptConsola\bin\Debug\SocketsChatScriptConsola.exe
+c:\users\alfonso\documents\visual studio 2010\Projects\SocketsChatScriptConsola\SocketsChatScriptConsola\bin\Debug\SocketsChatScriptConsola.pdb
+c:\users\alfonso\documents\visual studio 2010\Projects\SocketsChatScriptConsola\SocketsChatScriptConsola\obj\x86\Debug\SocketsChatScriptConsola.InterfazChat.resources
+c:\users\alfonso\documents\visual studio 2010\Projects\SocketsChatScriptConsola\SocketsChatScriptConsola\obj\x86\Debug\SocketsChatScriptConsola.Properties.Resources.resources
+c:\users\alfonso\documents\visual studio 2010\Projects\SocketsChatScriptConsola\SocketsChatScriptConsola\obj\x86\Debug\Servidor.csproj.GenerateResource.Cache
+c:\users\alfonso\documents\visual studio 2010\Projects\SocketsChatScriptConsola\SocketsChatScriptConsola\obj\x86\Debug\SocketsChatScriptConsola.exe
+c:\users\alfonso\documents\visual studio 2010\Projects\SocketsChatScriptConsola\SocketsChatScriptConsola\obj\x86\Debug\SocketsChatScriptConsola.pdb
+C:\Users\Alfonso\documents\visual studio 2010\Projects\SocketsChatScriptConsola\SocketsChatScriptConsola\obj\x86\Debug\Servidor.csprojResolveAssemblyReference.cache
