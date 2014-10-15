@@ -1,0 +1,8 @@
+c:\users\alfonso\documents\visual studio 2010\Projects\MotorDeBusquedaPersonalizado\MotorDeBusquedaPersonalizado\bin\Debug\MotorDeBusquedaPersonalizado.exe
+c:\users\alfonso\documents\visual studio 2010\Projects\MotorDeBusquedaPersonalizado\MotorDeBusquedaPersonalizado\bin\Debug\MotorDeBusquedaPersonalizado.pdb
+c:\users\alfonso\documents\visual studio 2010\Projects\MotorDeBusquedaPersonalizado\MotorDeBusquedaPersonalizado\obj\x86\Debug\MotorDeBusquedaPersonalizado.Properties.Resources.resources
+c:\users\alfonso\documents\visual studio 2010\Projects\MotorDeBusquedaPersonalizado\MotorDeBusquedaPersonalizado\obj\x86\Debug\MotorDeBusquedaPersonalizado.csproj.GenerateResource.Cache
+c:\users\alfonso\documents\visual studio 2010\Projects\MotorDeBusquedaPersonalizado\MotorDeBusquedaPersonalizado\obj\x86\Debug\MotorDeBusquedaPersonalizado.exe
+c:\users\alfonso\documents\visual studio 2010\Projects\MotorDeBusquedaPersonalizado\MotorDeBusquedaPersonalizado\obj\x86\Debug\MotorDeBusquedaPersonalizado.pdb
+C:\Users\Alfonso\documents\visual studio 2010\Projects\MotorDeBusquedaPersonalizado\MotorDeBusquedaPersonalizado\obj\x86\Debug\MotorDeBusquedaPersonalizado.csprojResolveAssemblyReference.cache
+C:\Users\Alfonso\documents\visual studio 2010\Projects\MotorDeBusquedaPersonalizado\MotorDeBusquedaPersonalizado\obj\x86\Debug\MotorDeBusquedaPersonalizado.Buscador.resources
