@@ -1,0 +1,4 @@
+C:\Users\Alfonso\documents\visual studio 2010\Projects\Reflection\Estudiante\bin\Debug\Estudiante.dll
+C:\Users\Alfonso\documents\visual studio 2010\Projects\Reflection\Estudiante\bin\Debug\Estudiante.pdb
+C:\Users\Alfonso\documents\visual studio 2010\Projects\Reflection\Estudiante\obj\Debug\Estudiante.dll
+C:\Users\Alfonso\documents\visual studio 2010\Projects\Reflection\Estudiante\obj\Debug\Estudiante.pdb

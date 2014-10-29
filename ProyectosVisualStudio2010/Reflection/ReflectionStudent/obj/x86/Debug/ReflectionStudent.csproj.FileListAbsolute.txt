@@ -1,0 +1,8 @@
+C:\PracitcasTopicosI\ProyectosVisualStudio2010\Reflection\ReflectionStudent\bin\Debug\ReflectionStudent.exe
+C:\PracitcasTopicosI\ProyectosVisualStudio2010\Reflection\ReflectionStudent\bin\Debug\ReflectionStudent.pdb
+C:\PracitcasTopicosI\ProyectosVisualStudio2010\Reflection\ReflectionStudent\obj\x86\Debug\ReflectionStudent.Form1.resources
+C:\PracitcasTopicosI\ProyectosVisualStudio2010\Reflection\ReflectionStudent\obj\x86\Debug\ReflectionStudent.Properties.Resources.resources
+C:\PracitcasTopicosI\ProyectosVisualStudio2010\Reflection\ReflectionStudent\obj\x86\Debug\ReflectionStudent.csproj.GenerateResource.Cache
+C:\PracitcasTopicosI\ProyectosVisualStudio2010\Reflection\ReflectionStudent\obj\x86\Debug\ReflectionStudent.exe
+C:\PracitcasTopicosI\ProyectosVisualStudio2010\Reflection\ReflectionStudent\obj\x86\Debug\ReflectionStudent.pdb
+C:\PracitcasTopicosI\ProyectosVisualStudio2010\Reflection\ReflectionStudent\obj\x86\Debug\ReflectionStudent.csprojResolveAssemblyReference.cache

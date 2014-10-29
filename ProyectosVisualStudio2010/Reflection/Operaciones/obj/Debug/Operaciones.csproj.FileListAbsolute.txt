@@ -1,0 +1,4 @@
+c:\users\alfonso\documents\visual studio 2010\Projects\Reflection\Operaciones\bin\Debug\Operaciones.dll
+c:\users\alfonso\documents\visual studio 2010\Projects\Reflection\Operaciones\bin\Debug\Operaciones.pdb
+c:\users\alfonso\documents\visual studio 2010\Projects\Reflection\Operaciones\obj\Debug\Operaciones.dll
+c:\users\alfonso\documents\visual studio 2010\Projects\Reflection\Operaciones\obj\Debug\Operaciones.pdb
