@@ -7,4 +7,3 @@ C:\PracitcasTopicosI\ProyectosVisualStudio2010\Reflection\Reflection\obj\x86\Deb
 C:\PracitcasTopicosI\ProyectosVisualStudio2010\Reflection\Reflection\obj\x86\Debug\Reflection.pdb
 C:\PracitcasTopicosI\ProyectosVisualStudio2010\Reflection\Reflection\bin\Debug\Reflection.exe
 C:\PracitcasTopicosI\ProyectosVisualStudio2010\Reflection\Reflection\bin\Debug\Reflection.pdb
-C:\PracitcasTopicosI\ProyectosVisualStudio2010\Reflection\Reflection\obj\x86\Debug\Reflection.csprojResolveAssemblyReference.cache

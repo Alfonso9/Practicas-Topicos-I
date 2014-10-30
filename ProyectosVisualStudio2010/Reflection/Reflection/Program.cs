@@ -6,6 +6,7 @@ using System.Reflection;
 using System.Threading;
 
 
+
 namespace Reflection
 {
     class Program
@@ -24,11 +25,11 @@ namespace Reflection
                 foreach (MemberInfo p in po)
                 {
                     if (p.ReflectedType.ToString().Equals("Estudiante.Estudiante"))                                                
-                        if (p.MemberType.ToString().Equals("Property"))
-                        {
+                        //if (p.MemberType.ToString().Equals("Property"))
+                        //{
                             sb.Append(p);
                             sb.AppendLine();                            
-                        }
+                        //}
                 }
             }
             //Console.WriteLine(sb);
@@ -37,6 +38,8 @@ namespace Reflection
 
         static void Main(string[] args)
         {
+            Estudiante es = new Estudiante();
+            //es.
             StringBuilder sd = AssemblyExplore();
             sd.Replace("System.", "");
             String[] tokens = sd.ToString().Split('\n');

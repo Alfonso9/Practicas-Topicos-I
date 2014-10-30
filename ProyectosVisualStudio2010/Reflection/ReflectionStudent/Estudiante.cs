@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using ReflectionStudent.Controlador;
 
 namespace Estudiante
 {
@@ -13,11 +14,12 @@ namespace Estudiante
         private String matricula;
         private String promedio;
         private String edad;
-        
 
-        public void SaveStudent()
+
+        public void SaveStudent(string n, string ap, string am, string m, string pg, string e)
         {
- 
+            DriverOperations Do = new DriverOperations();
+            Do.CreateEstudent(n, ap, am, m, pg, e);
         }
 
         public String Edad

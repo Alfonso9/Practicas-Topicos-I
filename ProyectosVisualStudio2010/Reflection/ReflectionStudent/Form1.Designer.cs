@@ -48,8 +48,7 @@
             this.ClientSize = new System.Drawing.Size(284, 261);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
-            this.Text = "ExampleReflection";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Text = "ExampleReflection";            
             this.ResumeLayout(false);
 
         }

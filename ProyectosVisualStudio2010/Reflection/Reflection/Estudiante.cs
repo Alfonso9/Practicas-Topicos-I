@@ -2,42 +2,28 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using Reflection.Controlador;
 
-namespace Estudiante
+namespace Reflection
 {
     public class Estudiante
     {
         private String nombre;
         private String apaterno;
         private String amaterno;
-        private String matricula;
+        private String carrera;
         private String promedio;
-        private String edad;
-        
 
-        public void SaveStudent()
+        public void SaveStudent(string n, string ap, string am, string m, string pg, string e)
         {
- 
+            DriverOperations Do = new DriverOperations();
+            Do.CreateEstudent(n, ap, am, m, pg, e);
         }
 
-        public String Edad
+        public String Carrera
         {
-            get { return edad; }
-            set { edad = value; }
-        }
-
-        public String Promedio
-        {
-            get { return promedio; }
-            set { promedio = value; }
-        }
-
-        public Estudiante() { }
-
-        public String Matricula
-        {
-            get { return matricula; }
-            set { matricula = value; }
+            get { return carrera; }
+            set { carrera = value; }
         }
 
         public String Nombre

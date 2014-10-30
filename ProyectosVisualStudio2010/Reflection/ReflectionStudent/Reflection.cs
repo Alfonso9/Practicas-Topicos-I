@@ -10,16 +10,25 @@ namespace ReflectionStudent
 {
     class Reflection
     {
+        Type classtype;
+        List<StringBuilder> lS;
+        List<String> lls;
+        Form ff;
+
         public Reflection()
-        { 
+        {
+            lS = new List<StringBuilder>();
+            lls = new List<string>();
         }
 
-        public StringBuilder AssemblyExplore()
-        {
+        public List<StringBuilder> AssemblyExplore()
+        {               
             StringBuilder sb = new StringBuilder();
-            Assembly asm = Assembly.LoadFile(@"C:\Users\Alfonso\Documents\visual studio 2010\Projects\Reflection\Estudiante\bin\Debug\Estudiante.dll");
+            StringBuilder sm = new StringBuilder();
+            Assembly asm = Assembly.LoadFile(@"C:\PracitcasTopicosI\ProyectosVisualStudio2010\Reflection\Estudiante\bin\Debug\Estudiante.dll");
             //sb.Append("FullName: " + asm.FullName + "\n");
             //sb.Append("Location(path): " + asm.Location + "\n");
+            classtype = asm.GetType("Estudiante.Estudiante");
             Type[] types = asm.GetTypes();
             foreach (Type t in types)
             {
@@ -33,19 +42,27 @@ namespace ReflectionStudent
                             sb.Append(p);
                             sb.AppendLine();
                         }
+                    if (p.MemberType.ToString().Equals("Method")) 
+                    {
+                            sm.Append(p);
+                            sm.AppendLine();
+                    }
                 }
             }
+            lS.Add(sb);
+            lS.Add(sm);
             //Console.WriteLine(sb);
-            return sb;
+            return lS;
         }
 
         public Button buildingForm()
         {
             int loc = 0;
-            StringBuilder sd = AssemblyExplore();
+            List<StringBuilder> lS = AssemblyExplore();
+            StringBuilder sd = lS[0];
             sd.Replace("System.", "");
             String[] tokens = sd.ToString().Split('\n');
-            Form ff = new Form();
+            ff = new Form();
             ff.Show();
             foreach (String s in tokens)
             {
@@ -57,6 +74,8 @@ namespace ReflectionStudent
                     lb.Text = sP;
                     lb.Location = new Point(40, 52+loc);
                     TextBox tb = new TextBox();
+                    tb.Name = sP;
+                    lls.Add(sP);
                     tb.Location = new Point(100, 50+loc);
                     ff.Controls.Add(tb);
                     ff.Controls.Add(lb);            
@@ -74,7 +93,22 @@ namespace ReflectionStudent
 
         protected void test(Object sender, EventArgs e)
         {
-            MessageBox.Show("aaaaaaa");
+            String test = lS[1].ToString();
+            test.Replace(" ", "\n");            
+            Object obj = Activator.CreateInstance(classtype);
+            MethodInfo mI = classtype.GetMethod(test.Substring(5, 10));
+            List<String> lAttr = new List<string>();
+            foreach(Control c in ff.Controls)
+            {
+                if (c.GetType().ToString().Equals("System.Windows.Forms.TextBox"))
+                {
+                    TextBox t = (TextBox)c;
+                    lAttr.Add(t.Text);
+                }
+            }
+            //Object[] oParameters = lAttr.ToArray();
+            mI.Invoke(obj, null);
+            MessageBox.Show(test.Substring(5, 10));
         }
     }
 }
